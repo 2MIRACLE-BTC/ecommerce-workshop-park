@@ -18,5 +18,5 @@ images:
   newTag: bb956264
 resources:
 - ../../base
-patchesStrategicMerge:
-- front-patch.yaml
+# patchesStrategicMerge:
+# - front-patch.yaml
