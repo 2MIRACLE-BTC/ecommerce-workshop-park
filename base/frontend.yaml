@@ -67,7 +67,7 @@ spec:
         #   value: <your_client_token>
         # - name: DD_APPLICATION_ID
         #   value: <your_application_id>
-        image: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/frontend:515f863b
+        image: 620832535900.dkr.ecr.ap-northeast-2.amazonaws.com/park-frontend:fc48b630
         imagePullPolicy: Always
         name: ecommerce-spree-observability
         ports:
