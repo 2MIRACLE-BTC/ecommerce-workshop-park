@@ -13,6 +13,9 @@ images:
 - name: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/frontend
   newName: 241825837502.dkr.ecr.ap-northeast-2.amazonaws.com/frontend
   newTag: 515f863b
+- name: 620832535900.dkr.ecr.ap-northeast-2.amazonaws.com/park-advertisements
+  newName: 620832535900.dkr.ecr.ap-northeast-2.amazonaws.com/park-advertisements
+  newTag: 9e6251c2
 - name: 620832535900.dkr.ecr.ap-northeast-2.amazonaws.com/park-discounts
   newName: 620832535900.dkr.ecr.ap-northeast-2.amazonaws.com/park-discounts
   newTag: bf5151b7
