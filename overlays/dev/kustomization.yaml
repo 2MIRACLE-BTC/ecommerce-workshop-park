@@ -15,8 +15,6 @@ images:
   newTag: 515f863b
 - name: 620832535900.dkr.ecr.ap-northeast-2.amazonaws.com/park-frontend
   newName: 620832535900.dkr.ecr.ap-northeast-2.amazonaws.com/park-frontend
-  newTag: bb956264
+  newTag: fc48b630
 resources:
 - ../../base
-# patchesStrategicMerge:
-# - front-patch.yaml
