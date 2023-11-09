@@ -12,6 +12,6 @@ images:
   newTag: bf5151b7
 - name: 620832535900.dkr.ecr.ap-northeast-2.amazonaws.com/park-frontend
   newName: 620832535900.dkr.ecr.ap-northeast-2.amazonaws.com/park-frontend
-  newTag: fc48b630
+  newTag: 49f5b718
 resources:
 - ../../base
